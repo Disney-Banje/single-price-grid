@@ -134,7 +134,7 @@ a {
     margin-bottom: 12px;
 }
 
-.services__list ol {
+.services__list li {
     list-style-type: none;
     font-weight: 400;
     color: var(--Light-Gray);
